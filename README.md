@@ -38,7 +38,6 @@ Welcome to **Algo**, an open-source project that provides developers with algori
 ## 🚀Featured In
 
 <table>
-
    <tr>
       <th>Event Logo</th>
       <th>Event Name</th>
@@ -48,17 +47,23 @@ Welcome to **Algo**, an open-source project that provides developers with algori
    <tr>
       <td><img src="girlscript.jpg" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
       <td>GSSoC'24 Extd</td>
-      <td>GSSoC'24 Extd is a one-month open-source Program conducted by the GirlScript Foundation. It is an initiative to introduce more beginners to Open-Source Software Development.</td>
+      <td>GSSoC'24 Extd is a one-month open-source program conducted by the GirlScript Foundation. It aims to introduce more beginners to Open-Source Software Development.</td>
        <td>Active</td>
    </tr>
-    <tr>
+   <tr>
+      <td><img src="postman.jpg" width="200" height="auto" loading="lazy" alt="Postman Challenge"/></td>
+      <td>Postman Challenge in GSSoC</td>
+      <td>The Postman Challenge in collaboration with GSSoC is an initiative to promote API development and open-source contributions. Participants complete challenges using Postman and are rewarded with certificates and goodies.</td>
+       <td>Completed</td>
+   </tr>
+   <tr>
       <td><img src="festhack.jpg" width="200" height="auto" loading="lazy" alt="Hacktoberfest 2024"/></td>
       <td>Hacktoberfest 2024</td>
-      <td>Hacktoberfest is a month-long celebration of open source software run by DigitalOcean, GitHub, and Twilio. It encourages contributions to open source projects and promotes a global community of developers.</td>
-        <td>Excluded</td>
+      <td>Hacktoberfest is a month-long celebration of open-source software, run by DigitalOcean, GitHub, and Twilio. It encourages contributions to open-source projects and promotes a global community of developers.</td>
+      <td>Excluded</td>
    </tr>
-
 </table>
+
 
 <br />
 
